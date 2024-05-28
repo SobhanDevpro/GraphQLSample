@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MyGrapghQLSample/obj/Debug/net7.0
+/MyGrapghQLSample/bin/Debug/net7.0
+/MyGrapghQLSample/.vs/MyGrapghQLSample/config
+/MyGrapghQLSample/.vs/MyGrapghQLSample/DesignTimeBuild
+/MyGrapghQLSample/.vs/MyGrapghQLSample/FileContentIndex/3a9e6e7c-df01-40a1-81b1-823412d32d4d.vsidx
+/MyGrapghQLSample/.vs/MyGrapghQLSample/FileContentIndex/57d4d004-77f7-4d80-9851-f6864aaf28f2.vsidx
+/MyGrapghQLSample/.vs/MyGrapghQLSample/FileContentIndex/6ea4f47d-053d-4892-b7ab-b044d72bbf90.vsidx
+/MyGrapghQLSample/.vs/MyGrapghQLSample/FileContentIndex/9e6c0abd-d098-4bd7-b145-a57f11ab68a0.vsidx
+/MyGrapghQLSample/.vs/MyGrapghQLSample/FileContentIndex/a0abf8dd-04f7-4817-a2d3-e66eed6067c3.vsidx
+/MyGrapghQLSample/.vs/MyGrapghQLSample/FileContentIndex/df9dcf8b-7e0f-4481-8c0c-49a10884164c.vsidx
+/MyGrapghQLSample/.vs/MyGrapghQLSample/v17/.suo
+/MyGrapghQLSample/MyGrapghQLSample.csproj.user
