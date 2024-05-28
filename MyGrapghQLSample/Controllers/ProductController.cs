@@ -17,8 +17,8 @@ namespace MyGrapghQLSample.Controllers
         #endregion
 
 
-        [HttpGet("GetAll")]
-        public IActionResult GetAllProduct() =>
+        [HttpGet(Name = "GetAllProducts")]
+        public IActionResult Get() =>
              Ok(_productService.GetProducts());
     }
 }
