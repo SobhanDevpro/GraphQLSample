@@ -4,6 +4,12 @@ namespace MyGrapghQLSample.Services
 {
     public class ProductService : IProductService
     {
+        public Product GetProductById(int id)
+        {
+            var products = GetProducts();
+            return products.FirstOrDefault(x => x.Id == id);
+        }
+
         public List<Product> GetProducts()
         {
             return new List<Product>
